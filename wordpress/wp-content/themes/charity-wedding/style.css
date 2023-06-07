@@ -1,0 +1,150 @@
+/**
+Theme Name: Charity Wedding
+Theme URI: https://themepalace.com/downloads/charity-wedding
+Author: themepalace
+Author URI: https://themepalace.com
+Version: 1.0.1
+Requires PHP: 5.6
+Tested up to: 5.9
+Requires at least: 5.0
+Template: raise-charity
+Text Domain: charity-wedding
+Description: Charity Wedding is a child theme of Raise Charity best for any kind of event and conference website. It is ideal for concerts, sports events, meetups, parties, weddings, and social events. It is well-coded, flexible, easy to use, includes a pixel-perfect design. The home page is designed to promote the events online and target the right audiences. Also, the theme is simple to customize. The premade content and design can be easily adjusted to change the overall appearance of the website. You can customize the content display format, remove unwanted sections from the layouts and add the title, logo, contents, sections, and widget as needed to build a unique website for your event or conference. Moreover, it is also responsive and browser compatible.
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: translation-ready, custom-background, theme-options, custom-menu, threaded-comments, featured-images, footer-widgets, editor-style, right-sidebar, full-width-template, two-columns, grid-layout, custom-colors, custom-header, custom-logo, featured-image-header, blog, portfolio, entertainment
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+.blog-slider article{
+    background-position: initial;
+}
+
+.btn {
+    color: #fff;
+}
+.featured-content-wrapper .entry-container {
+    margin: 0 auto;
+    text-align: center;
+}
+#featured-posts-section {
+    padding-bottom: 60px;
+}
+#featured-posts-section .featured-image {
+    padding: 300px 0;
+}
+input[type="submit"],
+.reply a,
+#masthead .custom-button {
+	color: #fff;
+}
+.section-title {
+    font-family: 'Cinzel', serif;
+}
+.blog-content-wrapper .entry-title {
+    font-size: 42px;
+    font-family: 'Great Vibes', cursive;
+}
+.contact-information ul {
+    color: #fff;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.contact-information li {
+    margin-bottom: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+.contact-information i {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+    color: #F0B557;
+    background-color: #fff;
+    font-size: 22px;
+    margin-bottom: 15px;
+    float: left;
+    margin-right: 20px;
+}
+.contact-information span {
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+}
+#map {
+    height: 275px;
+}
+#contact-section .col-2 article {
+    width: 100%;
+}
+#promotion-section {
+    text-align: center;
+}
+#promotion-section span {
+    background-color: #F0B557;
+    min-width: 100px;
+    min-height: 100px;
+    display: inline-block;
+    text-align: center;
+    max-width: 100px;
+    font-weight: 700;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 100px;
+    padding: 21px 0;
+    line-height: 28px;
+    vertical-align: middle;
+    color: #fff;
+}
+#promotion-section  small {
+    font-size: 14px;
+    display: block;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+
+@media screen and (min-width: 1024px) {
+	.blog-content-wrapper .entry-title {
+		font-size: 62px;
+	}
+	#featured-posts-section {
+	    padding-bottom: 90px;
+	}
+	#contact-section .col-2 article:first-child {
+	    width: 45%;
+	}
+	#contact-section .col-2 article:last-child {
+	    width: 55%;
+	}
+
+    .featured-content-wrapper, .blog-content-wrapper {
+        -webkit-transform: translateY(46%);
+        -moz-transform: translateY(46%);
+        -ms-transform: translateY(46%);
+        -o-transform: translateY(46%);
+        transform: translateY(46%);
+    }
+}
+
+@media screen and (max-width: 1023px) {
+     #masthead .custom-button {
+        width: 100%;
+        border-radius: 0;
+    }
+    .main-navigation ul.nav-menu > li,
+    .main-navigation ul.sub-menu li {
+        text-align: center;
+    }
+    .main-navigation ul.sub-menu li a {
+        padding-left: 125px;
+    }
+    .main-navigation ul.sub-menu ul li a {
+        padding-left: 210px;
+    }
+}

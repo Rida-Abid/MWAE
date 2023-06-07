@@ -1,0 +1,223 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-07 17:09+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions.php:14
+msgid "Secondary"
+msgstr ""
+
+#: functions.php:15
+msgid "Social"
+msgstr ""
+
+#: functions.php:67
+msgctxt "raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:103
+msgid "Top"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Topbar"
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Topbar Section options."
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Topbar Section Enable"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Featured Posts"
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "Featured Posts Section options."
+msgstr ""
+
+#: inc/customizer.php:206
+msgid "Featured Posts Section Enable"
+msgstr ""
+
+#: inc/customizer.php:234 inc/customizer.php:472
+#, php-format
+msgid "Select Page %d"
+msgstr ""
+
+#: inc/customizer.php:247
+msgid "Gallery Posts"
+msgstr ""
+
+#: inc/customizer.php:248
+msgid "Gallery Section options."
+msgstr ""
+
+#: inc/customizer.php:265
+msgid "Gallery Section Enable"
+msgstr ""
+
+#: inc/customizer.php:284
+msgid "Pre-Wedding"
+msgstr ""
+
+#: inc/customizer.php:290 inc/customizer.php:409 inc/customizer.php:731
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:313
+msgid ""
+"Designs the experience in 3 steps, each increasing in detail, from the flow "
+"to the wireframes."
+msgstr ""
+
+#: inc/customizer.php:321 inc/customizer.php:762
+msgid "Subtitle"
+msgstr ""
+
+#: inc/customizer.php:351
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer.php:352
+msgid "Note: Latest selected no of posts will be shown from selected category"
+msgstr ""
+
+#: inc/customizer.php:363
+msgid "Events"
+msgstr ""
+
+#: inc/customizer.php:364
+msgid "Events Section options."
+msgstr ""
+
+#: inc/customizer.php:382
+msgid "Event Section Enable"
+msgstr ""
+
+#: inc/customizer.php:401
+msgid "Wedding Timeline"
+msgstr ""
+
+#: inc/customizer.php:432 inc/customizer.php:755
+msgid ""
+"Children and poor people are at high risk of severe malnutrition & no "
+"education."
+msgstr ""
+
+#: inc/customizer.php:440
+msgid "Section Sub Title"
+msgstr ""
+
+#: inc/customizer.php:485
+msgid "CTA"
+msgstr ""
+
+#: inc/customizer.php:486
+msgid "CTA Section options."
+msgstr ""
+
+#: inc/customizer.php:502
+msgid "CTA Section Enable"
+msgstr ""
+
+#: inc/customizer.php:528
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer.php:541
+msgid "Christin & Thomas"
+msgstr ""
+
+#: inc/customizer.php:548
+msgid "Button Label"
+msgstr ""
+
+#: inc/customizer.php:578
+msgid "Map Shortcode"
+msgstr ""
+
+#: inc/customizer.php:579
+msgid ""
+"Get the form shortcode from WP Google Maps plugin example [wpgmza id=\"1\"] :"
+msgstr ""
+
+#: inc/customizer.php:590
+msgid "+977-123456789"
+msgstr ""
+
+#: inc/customizer.php:598
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer.php:622
+msgid "info@teachkiddo.com"
+msgstr ""
+
+#: inc/customizer.php:630
+msgid "Email"
+msgstr ""
+
+#: inc/customizer.php:654
+msgid "1258 Kapurdhara, Kathmandu"
+msgstr ""
+
+#: inc/customizer.php:662
+msgid "Address"
+msgstr ""
+
+#: inc/customizer.php:686
+msgid "Sponsor"
+msgstr ""
+
+#: inc/customizer.php:687
+msgid "Sponsor Section options."
+msgstr ""
+
+#: inc/customizer.php:704
+msgid "Sponsor Section Enable"
+msgstr ""
+
+#: inc/customizer.php:723
+msgid "Our Sponsors"
+msgstr ""
+
+#: inc/customizer.php:793
+#, php-format
+msgid "Image %d"
+msgstr ""
+
+#: inc/customizer.php:809
+#, php-format
+msgid "Sponsor Url %d"
+msgstr ""
+
+#: inc/front-sections/contact-us.php:70
+msgid "Phone Number:"
+msgstr ""
+
+#: inc/front-sections/contact-us.php:77
+msgid "Email:"
+msgstr ""
+
+#: inc/front-sections/contact-us.php:84
+msgid "Location:"
+msgstr ""
