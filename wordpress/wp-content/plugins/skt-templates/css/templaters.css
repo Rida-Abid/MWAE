@@ -3838,3 +3838,430 @@ padding-bottom:10px !important; transition: 0.3s;}
 	.skt-golf-club-section-11-right::after {width: 15% !important;height: 77% !important;}
 }
 /* SKT Golf */
+
+/* SKT Glass */
+.skt-glaziers-btn .elementor-button-icon i {width: 34px !important;height: 34px;border-radius: 100%;background: #000000;text-align: center;line-height: 34px !important;}
+.skt-glaziers-btn-white .elementor-button-icon i { color:#ffffff;}
+.skt-glaziers-btn .elementor-button-text { margin-top:10px;}
+.skt-glaziers-section-4-right-inner-form .wpcf7-text, .skt-glaziers-section-4-right-inner-form .wpcf7-textarea { background:#ffffff !important; border:1px solid #d1d0c8 !important; padding: 12px 25px;}
+.skt-glaziers-section-4-right-inner-form .wpcf7-textarea { height:120px; min-height: unset !important;}
+.skt-glaziers-section-4-right-inner-form input[type="submit"] { float:none !important; text-transform:uppercase;padding: 15px 80px 15px 35px; position:relative; margin-top:20px;}
+.skt-glaziers-section-4-right-inner-form .geta-quote-btn { position:relative;}
+.skt-glaziers-section-4-right-inner-form .geta-quote-btn::after { content: '\f061';position: absolute;right: 35%;    top: 50%;transform: translateY(-50%);background: #000000;width: 34px;height: 34px;line-height: 34px;color: #ffffff; font-family: FontAwesome;font-size: 16px;border-radius: 100%;text-align: center;}
+.skt-glaziers-section-6-left-inner::before{content: "";position: absolute;left: 0px;background: #ffffff;width: 820px;    height: 100%;border-radius: 15px;z-index: 1;top: 0;bottom: 0;}
+.skt-glaziers-section-8-left-inner-box1 { width:33.33% !important; float:left !important;}
+.skt-glaziers-section-8-left-inner { display:block !important;}
+.skt-glaziers-section-8-left-inner .elementor-container { display:block !important;}
+.skt-glaziers-section-13-products .woocommerce .products.columns-2 li p, .skt-glaziers-section-13-products .woocommerce .products.columns-1 li p, .skt-glaziers-section-13-products .woocommerce .products.columns-3 li p, .skt-glaziers-section-13-products .woocommerce .products.columns-4 li p  { display:none;}
+.skt-glaziers-section-15 { position: relative;}
+.skt-glaziers-section-15-map { position:absolute !important; z-index:-1;}
+.skt-glaziers-section-2-left-com-glass .elementor-button { display:block;}
+.skt-glaziers-section-2-left-res-glass .elementor-button { display:block;}
+@media(max-width: 479px){
+.skt-glaziers-section-6-left-inner::before { width:100% !important;}	
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+.skt-glaziers-section-6-left-inner::before { width:100% !important;}
+.elementor-element.skt-glaziers-section-8-left-inner-box1 { width:100% !important;}
+}
+@media screen and (max-width:1023px) and (min-width:768px) {
+.skt-glaziers-section-6-left-inner::before{width:600px !important;}
+.skt-glaziers-section-8-left{width:100% !important;}
+.skt-glaziers-section-8-right{width:100% !important;}
+}
+/* SKT Glass */
+
+/* Coachpress */
+.coachpress-home-newsletter .wpcf7-form-control-wrap {width: 50% !important;float: left;padding: 0px 5px;}
+.coachpress-home-newsletter .wpcf7 input[type="text"], .coachpress-home-newsletter .wpcf7 input[type="tel"], .coachpress-home-newsletter .wpcf7 input[type="email"]{width:100%;}
+.coachpress-home-newsletter .wpcf7 input[type="submit"]{width:100% !important; border-radius:50px !important; background-color:#ebc1c8 !important; color:#000;}
+.coachpress-home-newsletter input {border-radius:50px;padding: 20px 30px !important; height:auto !important;color:#8a8989;font-size:16px !important; font-weight:400;}
+.coachpress-home-newsletter .wpcf7-text {margin-bottom:20px !important; margin-top:0 !important;}
+.coachpress-home-newsletter input::placeholder { color:#8a8989; font-size:16px !important; font-weight:400;}
+.coachpress-home-newsletter .wpcf7-submit {float: none !important;padding: 20px 35px !important;font-size: 18px;width: 98%; margin: 0 auto;text-align: center;display: block; font-weight:500; color:#191724 !important;margin-top: 55px !important;}
+.coachpress-coachimg .elementor-widget-container img { width:306px; height:347px !important;object-fit: cover;}
+.coachpress-video .eicon-play:before{content: url(https://demosktthemes.com/free/skt-coach/wp-content/uploads/2023/05/coachpress-video-play-icon.png)!important;}
+.coachpress-video .elementor-custom-embed-play {width: 89px;height: 89px;border-radius: 100%;background: #7d6a91;z-index: 5;}
+.coachpress-video .elementor-custom-embed-play i { line-height:50px;}
+.coachpress-video .elementor-custom-embed-image-overlay img { border-radius:30px;}
+.coachpress-logo-relll .swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction .swiper-container-horizontal>.coachpress-asfeatured-btn { position:relative;}
+.coachpress-asfeatured-btn::before {content: '';background: #7d6a91;width: 14px;height: 14px;position: absolute;top: -80px;  left: 50%;transform:translate(-50%, -50%); border-radius:100% !important;}
+.coachpress-asfeatured-btn::after {content: '';background: #7d6a91;width: 2px;height: 114%;position: absolute;top: -39px;  left: 50%;transform:translate(-50%, -50%);}
+.coachpress-logo-relll { position:relative;}
+.coachpress-logo-relll::before {content: "";border: solid 1px #f6ebeb;border-bottom: 0 !important;border-radius: 25px 25px 0 0;height: 49%;left: 50%;position: absolute;top: -54px;transform: translateX(-50%);width: 81%;z-index: 7;}
+.coachpress-beamazing::before {content: '';background: #fdf9f9;width: 142%;height: 100%;position: absolute;top:0;  left:-210px; border-radius:15px;}
+.coachpress-beamazing { position:relative;}
+.coachpress-find-my-tribe::before {content: '';background: #fdf9f9;width: 135%;height: 100%;position: absolute;top:0;  right:-210px;border-radius:15px;}
+.coachpress-find-my-tribe { position:relative;}
+.coachpress-service-page .services-box-content {box-shadow: 0px 0px 60px 0px rgb(0 0 0 / 8%) !important;}
+.coachpress-services .services-box-content{padding:0px; border-radius:0px;}
+.coachpress-services .skt-services-image{width:100%; height:296px;}
+.coachpress-services .services-box-content-area{width:33%;}
+.coachpress-services .services-infobox .skt-services-title{text-align:left; padding:0px; font-size:21px;}
+.coachpress-services .services-infobox{padding:20px 35px 30px 35px; text-align:left;}
+.coachpress-tstm .skt-testimonials .skt-testimonial-image{width:75px !important; height:75px !important; margin:15px 15px 0 0 !important;}
+@media (min-width: 480px) and (max-width: 767px) {
+.coachpress-beamazing::before {width: 100% !important; left:0 !important;}
+.coachpress-find-my-tribe::before {width: 100% !important; right:0 !important;}
+.coachpress-logo-relll::before { height:40% !important;}
+.coachpress-coachimgouter.coachpress-coachimg .elementor-widget-container img { width:100% !important; height:auto !important;}	
+}
+
+@media(max-width: 479px){
+.coachpress-home-newsletter .wpcf7-form-control-wrap { width:100% !important;}
+.coachpress-beamazing::before {width: 100% !important; left:0 !important;}
+.coachpress-find-my-tribe::before {width: 100% !important; right:0 !important;}
+.coachpress-coachimgouter.coachpress-coachimg .elementor-widget-container img { width:100% !important; height:auto !important;}
+.coachpress-logo-relll .swiper-container-horizontal > .swiper-pagination-bullets{bottom: -20px !important;}
+.coachpress-services .services-box-content-area{width:100% !important;}
+}
+/* Coachpress */
+
+/* Pizzeria */
+.sktpizza-section-1-mid-img { position:relative;}
+.sktpizza-section-1-mid-img::after {content: '';width: 630px;height: 315px;background: #ffffff;border-radius: 590px 590px 0 0;position: absolute;bottom: -70px;left: 50%;transform: translateX(-50%);}
+.sktpizza-section-2-left::after {content: '';width: 75%;height: 95%;background: #f9f6f1;border-radius: 15px;position: absolute;top: 30px;left: 0;z-index: 1;}
+.sktpizza-section-2-left img {-webkit-animation: qodefFloat 5s ease-in-out infinite;
+animation: qodefFloat 3s ease-in-out infinite;}
+
+@-webkit-keyframes qodefFloat {
+ 0%,
+ 100% {
+  -webkit-transform:translateY(5px);
+  transform:translateY(5px)
+ }
+ 50% {
+  -webkit-transform:translateY(-10px);
+  transform:translateY(-10px)
+ }
+}
+@keyframes qodefFloat {
+ 0%,
+ 100% {
+  -webkit-transform:translateY(5px);
+  transform:translateY(5px)
+ }
+ 50% {
+  -webkit-transform:translateY(-10px);
+  transform:translateY(-10px)
+ }
+}
+.sktpizza-section-5-mid .woocommerce ul.products li.product{padding: 40px 40px;}
+.sktpizza-section-5 .woocommerce ul.products li h2{text-transform:uppercase; font-family:'Oswald'; font-weight:500 !important; font-size:20px;}
+.sktpizza-new-midtext .elementor-heading-title span { font-size:16px !important;margin: 0 8px;}
+.sktpizza-section-6-mid-text { position:relative;}
+.sktpizza-section-6-mid-text::before { content:''; background:#ffc139; width:218px; height:218px; border-radius:100%; position:absolute; left:50%;transform: translate(-50%,-50%); top:50%;z-index: -1;}
+.sktpizza-section-6-left::before {content: '';background: transparent;width: 140%;height: 91%;border: 1px solid #ff9839;    border-radius: 20px;position: absolute;top: 5px;left: 0;z-index: -1;}
+.sktpizza-delivery-bike img {
+  animation: .3s qodefBounce ease-in-out infinite;
+  -webkit-animation: .3s qodefBounce ease-in-out infinite;
+}
+
+@-webkit-keyframes qodefBounce {
+ 0%,
+ 100% {
+  -webkit-transform:translateY(0);
+  transform:translateY(0);
+ }
+ 50% {
+  -webkit-transform:translateY(-5px);
+  transform:translateY(-5px);
+ }
+}
+@keyframes qodefBounce {
+ 0%,
+ 100% {
+  -webkit-transform:translateY(0);
+  transform:translateY(0);
+ }
+ 50% {
+  -webkit-transform:translateY(-5px);
+  transform:translateY(-5px);
+ }
+}
+
+
+@media(max-width: 479px){
+.sktpizza-section-6-left:before{width:100%;}
+.sktpizza-section-6-mid-text .elementor-image-box-title {padding: 0 100px !important;}
+}
+/* Pizzeria */
+
+/* Physiotherapy */
+.skt-physiotherapy-section-1-inner2-icon .elementor-image-box-img { position:relative; z-index:5; margin-left:40px !important;}
+.skt-physiotherapy-section-1-inner2-icon .elementor-image-box-img::after {content: "";position: absolute;left: -40px;top: 0px;background:#f5f8fb;width: 88px;height: 88px; border-radius: 100%;z-index: -1;}
+.skt-physiotherapy-section-2-left { position:relative !important;}
+.skt-physiotherapy-section-2-left-img2{ position:absolute !important; right:-190px; bottom:60px; width:auto !important; z-index:5;}
+.skt-physiotherapy-section-2-left-img2::after {content: '';position: absolute;right: 45px;top: -180px;width: 0;height: 0;   border-top: 180px solid transparent;border-left: 155px solid #e4ebf4;border-bottom: 0px solid transparent;z-index: 4;}
+.skt-physiotherapy-section-4 { position:relative !important;}
+.skt-physiotherapy-section-4-mid-title { position:absolute !important; top:-130px; transform:translateX(-50%); left:50%;}
+.social-icons:empty { display:none !important;}
+.skt-physiotherapy-section-5-right-video .elementor-custom-embed-play {background: #ffffff;border-radius: 100%;width: 102px;height: 102px;}
+.skt-physiotherapy-section-5-right-video .eicon-play:before {content: '\f04b' !important; color:#ce2066;font-family: "FontAwesome"; opacity:1 !important; font-size:24px !important;}
+.skt-physiotherapy-section-5-right-video .elementor-custom-embed-play i { line-height:50px; text-shadow:none !important;}
+.skt-physiotherapy-section-9-mid-inner-box1-lefticon .elementor-widget-container { width:243px !important; height:243px !important;}
+.skt-physiotherapy-section-9-mid-inner-box1-lefticon .elementor-widget-container img { margin-top:50px !important;}
+.skt-physiotherapy-section-10-right-form .wpcf7-form-control-wrap {width: 50%;float: left;padding: 10px; padding-bottom:0 !important;}
+.skt-physiotherapy-section-10-right-form .wpcf7-form-control-wrap:nth-child(7) { width:100% !important;}
+.skt-physiotherapy-section-10-right-form input[type=date] { color:#4d4d4d !important;}
+.skt-physiotherapy-section-10-right-form input, .skt-physiotherapy-section-10-right-form .wpcf7-select { margin:0 !important; margin-top:10px !important; line-height:normal !important;}
+.skt-physiotherapy-section-10-right-form .wpcf7-text, .skt-physiotherapy-section-10-right-form .wpcf7-select, .skt-physiotherapy-section-10-right-form .wpcf7-date { background:#f0f4f7 !important;color:#4d4d4d !important; opacity:1 !important; }
+.skt-physiotherapy-section-10-right-form .wpcf7-textarea { height:153px !important;background:#f0f4f7 !important;}
+.skt-physiotherapy-section-10-right-form .wpcf7-submit { font-size:18px; font-weight:600; color:#fff !important; background:#0090eb; padding:15px 40px !important; border-radius:50px; float:left;}
+.skt-physiotherapy-section-10-right-form input::placeholder { font-size:16px !important; color:#4d4d4d !important; font-weight:400; opacity:1 !important;}
+.skt-physiotherapy-section-10-right-form input, .skt-physiotherapy-section-10-right-form .wpcf7-textarea{ font-size:16px !important;; font-weight:400; opacity:1 !important;}
+.skt-physiotherapy-section-11-left { position:relative !important;}
+.skt-physiotherapy-section-11-left-inner-title { position: absolute !important; left:30px; top:30px;}
+.skt-physiotherapy-progress-bar .elementor-progress-percentage {position: absolute!important;top: -27px;left: auto;right: 0;}
+.skt-physiotherapy-progress-bar .elementor-progress-wrapper {margin-top: 15px;overflow: visible!important;}
+
+@media(max-width: 479px){
+.elementor-element.skt-physiotherapy-section-2-left-img2 {position:relative; bottom:auto; right:auto; margin:0 auto;}
+.skt-physiotherapy-section-2-left-img2::after {display:none;}	
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+.skt-physiotherapy-section-4-mid-title {top:0;}
+.elementor-element.skt-physiotherapy-section-2-left-img2 {position:relative; bottom:auto; right:auto; margin:0 auto;}
+.skt-physiotherapy-section-2-left-img2::after {display:none;}
+.skt-physiotherapy-section-11-left-inner-title {width:80%;}
+}
+
+@media (min-width: 575px) and (max-width: 767px) {
+.skt-physiotherapy-section-8-left-inner-left { width:50%;}
+.skt-physiotherapy-section-8-left-inner-right { width:50%;}
+.skt-physiotherapy-section-8-left-inner-title .elementor-widget-container {padding: 0px 30px 0px 30px;}	
+}
+
+@media(min-width: 768px) and (max-width: 1023px){
+.skt-physiotherapy-section-4-mid-title {top: -60px;}
+.skt-physiotherapy-section-5-right { margin:0 auto;}
+.skt-physiotherapy-section-6-right {order: 1; margin:0 auto;}
+.skt-physiotherapy-section-6-mid  {order: 2;}
+.skt-physiotherapy-section-6-left  {order: 3;}
+.skt-physiotherapy-section-8-left {order: 3;}
+.skt-physiotherapy-section-8-mid {order: 2;}
+.skt-physiotherapy-section-8-right  {order: 1; margin:0 auto;}
+.skt-physiotherapy-section-12-left { margin:0 auto;}
+.skt-physiotherapy-section-7-box1-inner-counter.elementor-widget-counter { width:33.33%; margin-bottom:0;}
+.elementor-element.skt-physiotherapy-section-7-box1-inner-midcounter .elementor-widget-container {padding: 30px 0px 30px 0px; border-width:0px 1px;}
+.skt-physiotherapy-section-7-box1-inner-counter .elementor-widget-container { border-width:0;}
+.skt-physiotherapy-section-7-box1-inner-lastcounter .elementor-widget-container {padding: 30px 0px 30px 0px;}
+.skt-physiotherapy-section-9-mid-inner-box5-list .elementor-icon-list-items { column-count:2;}	
+}
+
+@media(min-width: 1024px) and (max-width: 1199px){
+.skt-physiotherapy-section-2-left-img2{right: -130px !important;bottom: 10px !important;}
+.skt-physiotherapy-section-2-left-img2::after {right: 40px !important;top: -160px !important;border-left: 105px solid #e8eff7 !important;border-top: 160px solid transparent !important;}
+.skt-physiotherapy-section-2-left-img2 img { width:80%;}
+.skt-physiotherapy-section-4-mid-title { top:-50px;}
+.skt-physiotherapy-section-4-mid-title .elementor-heading-title {font-size: 235px;}
+.skt-physiotherapy-section-5-left { width:45%;}
+.skt-physiotherapy-section-5-mid { width:10%;}
+.skt-physiotherapy-section-5-right {width: 44.664%;}
+.skt-physiotherapy-section-6-right {width: 32%;}
+.skt-physiotherapy-section-6-mid {width: 2%;}
+.skt-physiotherapy-section-6-left {width: 65.05%;}
+.skt-physiotherapy-section-6-right .elementor-widget-heading, .skt-physiotherapy-section-6-right .elementor-widget-text-editor, .skt-physiotherapy-section-6-right .elementor-widget-button  { text-align:left;}
+.skt-physiotherapy-section-1-inner1-right {width: 45%;}
+.skt-physiotherapy-section-1-inner1-left {width: 55%;}
+.skt-physiotherapy-section-7-box1 {width: 19.999%;}
+.skt-physiotherapy-section-7-box2 {width: 3.971%;}
+.skt-physiotherapy-section-7-box3 {width: 34%;}
+.skt-physiotherapy-section-7-box4 { width:6%;}
+.skt-physiotherapy-section-7-box5 {width: 36.009%;}
+.skt-physiotherapy-section-7-box1-inner { padding:0 15px;}
+.skt-physiotherapy-section-8-left { width:58%;}
+.skt-physiotherapy-section-8-mid { width:3%;}
+.skt-physiotherapy-section-8-right {width: 38.572%;}
+.skt-physiotherapy-section-8-left-inner-title .elementor-widget-container {padding: 0px 30px 0px 30px;}
+.skt-physiotherapy-section-8-right .elementor-widget-heading, .skt-physiotherapy-section-8-right .elementor-widget-text-editor, .skt-physiotherapy-section-8-right .elementor-widget-button  { text-align:left;}
+.skt-physiotherapy-section-9-mid-inner-box1 {width: 23.036%;}
+.skt-physiotherapy-section-9-mid-inner-box2 {width: 3%;}
+.skt-physiotherapy-section-9-mid-inner-box3 {width: 32%;}
+.skt-physiotherapy-section-9-mid-inner-box4 {width: 3%;}
+.skt-physiotherapy-section-9-mid-inner-box5 {width: 38.901%;}
+.elementor-element.skt-physiotherapy-section-9-mid-inner-box1-lefticon .elementor-widget-container {width: 213px;height: 213px;}
+.skt-physiotherapy-section-12-left {width: 31%;}
+.skt-physiotherapy-section-12-mid { width:3%;}
+.skt-physiotherapy-section-12-right {width: 65.664%;}
+.skt-physiotherapy-section-12-left .elementor-widget-heading, .skt-physiotherapy-section-12-left .elementor-widget-text-editor, .skt-physiotherapy-section-12-left .elementor-widget-button{ text-align:left;}
+.skt-physiotherapy-section-10-left { width:47%;}
+.skt-physiotherapy-section-10-mid { width:8%;}
+.skt-physiotherapy-section-10-right {width: 44.635%;}
+.skt-physiotherapy-section-2-left { width:36%;}
+.skt-physiotherapy-section-2-mid { width:15%;}
+.skt-physiotherapy-section-2-right { width:49%;}	
+}
+/* Physiotherapy */
+
+/* Restara */
+.skt-restara-section-2-leftimg .elementor-widget-container img { position:relative !important; z-index:5;}
+.skt-restara-section-2-leftimg { position:relative !important;}
+.skt-restara-section-2-leftimg::after {content: '';width: 252px;height: 356px;background: #f2e9db;position: absolute;bottom: -80px;    right: 9px;border-radius: 232px 232px 0 0;}
+.skt-restara-section-2-leftimg::before {content: ''; width: 186px;height: 186px;background: #ffffff;position: absolute;top: 20px;    left: 110px;border-radius: 100%;}
+.skt-restara-section-2-right { position:relative !important;}
+.skt-restara-section-2-right::after {content: '';width: 40%;height: 185px;position: absolute;bottom: 20px;right: 0px;background: url(https://demosktthemes.com/free/restara/wp-content/uploads/2023/09/section-2after-img.png);background-repeat: no-repeat;background-size: 100%;}
+.skt-restara-section-3-inner-img .elementor-widget-container { width:123px; height:123px; border-radius:100%;}
+.skt-restara-section-3-left-btn .elementor-align-icon-right {background: #fff;width: 35px;height: 35px;border-radius: 100%;}
+.skt-restara-section-3-left-btn .elementor-align-icon-right i { color:#282828; margin-top:8px;}
+.skt-restara-section-3-left-btn .elementor-button-text { margin-top:10px;}
+.skt-restara-section-3-rightimg::after {content: ''; width: 434px;height: 434px;background: #f3ebdf;position: absolute;top: 0px;    left: 50%; transform:translateX(-50%);border-radius: 100%; z-index:3;}
+.skt-restara-section-3-rightimg .elementor-widget-container img { position:relative !important; z-index:5;}
+.skt-restara-section-3-rightimg::before {content: '';width: 35%;height: 146px;position: absolute;top: 35%;left: -60px;background: url(https://demosktthemes.com/free/restara/wp-content/uploads/2023/09/section3-img-before.png);background-repeat: no-repeat;background-size: 100%;z-index: 4;}
+.skt-restara-section-3-right::after {content: '';width: 38%;height: 279px;position: absolute;top: 11%;right: -70px;background: url(https://demosktthemes.com/free/restara/wp-content/uploads/2023/09/section3-img-rightimg.png);background-repeat: no-repeat;background-size: 100%;z-index: 4;}
+.skt-restara-section-3::before {content: '';width: 193px;height: 243px;position: absolute;top: -80px;left: 0px;background: url(https://demosktthemes.com/free/restara/wp-content/uploads/2023/09/section-3-before-img.png);background-repeat: no-repeat;background-size: 100%;z-index:5;}
+.skt-restara-section-9-box5-btn .elementor-button::before {content: '';width: 85%;height: 80%;background: transparent;border: 1px solid #febc57;border-radius: 10px;position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);}
+.skt-restara-section-9-box5-btn .elementor-button { position:relative !important;}
+.skt-restara-section-9-box5-btn .elementor-button::after {content: '';width: 16px;height: 16px;background:#fff;border-radius: 100%;position: absolute;top: 20px;left: 47.8%;transform: translateY(-50%);}
+.skt-restara-section-9-box5-btn .elementor-button-wrapper::before {content: '';width: 2px;height: 100%;background:#fd7700;position: absolute;top: -75px;left: 50%;transform: translateY(-50%); z-index:4;}
+.skt-restara-section-9-box5-btn .elementor-button-wrapper::after {content: '';width: 6px;height: 6px;background: #fd7700;position: absolute;top: 23px;left: 49.5%;transform: translateY(-50%);z-index: 4;border-radius: 100%;}
+.skt-restara-section-9-box5-btn .elementor-button-wrapper { position:relative !important;}
+.skt-restara-section-2-right::after{animation: .9s qodefBounce ease-in-out infinite; -webkit-animation: .9s qodefBounce ease-in-out infinite;}
+
+@-webkit-keyframes qodefBounce {
+ 0%,
+ 100% {
+  -webkit-transform:translateY(0);
+  transform:translateY(0);
+ }
+ 50% {
+  -webkit-transform:translateY(-5px);
+  transform:translateY(-5px);
+ }
+}
+@keyframes qodefBounce {
+ 0%,
+ 100% {
+  -webkit-transform:translateY(0);
+  transform:translateY(0);
+ }
+ 50% {
+  -webkit-transform:translateY(-5px);
+  transform:translateY(-5px);
+ }
+}
+
+.skt-restara-section-3-right::after{animation: .9s qodefBounce ease-in-out infinite; -webkit-animation: .9s qodefBounce ease-in-out infinite;}
+
+@-webkit-keyframes qodefBounce {
+ 0%,
+ 100% {
+  -webkit-transform:translateY(0);
+  transform:translateY(0);
+ }
+ 50% {
+  -webkit-transform:translateY(-5px);
+  transform:translateY(-5px);
+ }
+}
+@keyframes qodefBounce {
+ 0%,
+ 100% {
+  -webkit-transform:translateY(0);
+  transform:translateY(0);
+ }
+ 50% {
+  -webkit-transform:translateY(-5px);
+  transform:translateY(-5px);
+ }
+}
+
+.skt-restara-section-3-rightimg::before{animation: .9s qodefBounce ease-in-out infinite; -webkit-animation: .9s qodefBounce ease-in-out infinite;}
+
+@-webkit-keyframes qodefBounce {
+ 0%,
+ 100% {
+  -webkit-transform:translateY(0);
+  transform:translateY(0);
+ }
+ 50% {
+  -webkit-transform:translateY(-5px);
+  transform:translateY(-5px);
+ }
+}
+@keyframes qodefBounce {
+ 0%,
+ 100% {
+  -webkit-transform:translateY(0);
+  transform:translateY(0);
+ }
+ 50% {
+  -webkit-transform:translateY(-5px);
+  transform:translateY(-5px);
+ }
+}
+
+.skt-restara-section-8-inner-left img{animation: pizza 35s linear infinite;}
+
+@keyframes pizza {
+ 0%{
+    transform: rotate(0deg);
+   }
+100%{
+    transform: rotate(360deg);
+   }
+}
+.skt-restara-section-8-inner-mid img{animation: pizza 35s linear infinite;}
+
+@keyframes pizza {
+ 0%{
+    transform: rotate(0deg);
+   }
+100%{
+    transform: rotate(360deg);
+   }
+}
+.skt-restara-section-8-inner-right img{animation: pizza 35s linear infinite;}
+
+@keyframes pizza {
+ 0%{
+    transform: rotate(0deg);
+   }
+100%{
+    transform: rotate(360deg);
+   }
+}
+
+@media(min-width: 1024px) and (max-width: 1199px){
+.skt-restara-section-2-leftimg::after {width: 48% !important;height: 276px !important;}
+.skt-restara-section-3::before { width:10% !important;}
+.skt-restara-section-3-inner-img .elementor-widget-container { padding-top:30px !important;}
+.skt-services-title {padding: 20px 0px 10px !important;}
+.skt-restara-section-3-inner-img .elementor-widget-container { margin:0 auto !important;}
+.skt-restara-section-3-right::after {width: 27% !important;top: 25% !important;right: 10px !important;}
+.skt-restara-section-2-right::after { width:30% !important;}	
+}
+
+@media(min-width: 768px) and (max-width: 1023px){
+.skt-restara-section-2-leftimg::after { display:none !important;}
+.skt-restara-section-2-leftimg::before {width: 136px !important;height: 136px !important;top: 10px !important;left: 60px !important;}
+.skt-restara-section-3::before {width: 16% !important;}
+.skt-restara-section-3-rightimg::after {width: 314px !important;height: 314px !important;}
+.skt-restara-section-3-right::after {width: 30% !important;top: 15% !important;right: 5px !important;}
+.skt-restara-section-3-rightimg::before { left:-30px !important;}
+.skt-restara-section-3-inner-img .elementor-widget-container {width: 103px !important;height: 103px !important;}
+.skt-restara-section-9-box5-btn .elementor-button-wrapper::after { left:50% !important;}
+.skt-restara-section-9-box5-btn .elementor-button-wrapper::before {top: -60px !important;left: 50.6% !important;}
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+.skt-restara-section-2-leftimg::after { display:none !important;}
+.skt-restara-section-3-inner-img .elementor-widget-container { margin:0 auto;}
+.skt-restara-section-3-rightimg::before { left:0 !important;}
+.skt-restara-section-3-right::after {width: 30% !important;top: 20% !important;right: 10px !important;}	
+.skt-restara-section-3::before {width: 20% !important;top: -25px !important;}
+}
+
+@media(max-width: 479px){
+.skt-restara-section-2-leftimg::after { display:none;}
+.skt-restara-section-2-leftimg::before { top:-20px !important; left:60px !important;}
+.skt-restara-section-3-inner-img .elementor-widget-container { margin:0 auto !important;}
+.skt-restara-section-3-rightimg::after {width: 354px !important;height: 354px !important;}
+.skt-restara-section-3-rightimg::before { left: 0px !important;}
+.skt-restara-section-3-right::after {right: 0px !important;}
+.skt-restara-section-9-box5-btn .elementor-button-wrapper::before { display:none !important;}
+.skt-restara-section-9-box5-btn .elementor-button-wrapper::after { display:none;}
+.skt-restara-section-9-box5-btn .elementor-button::after { display:none;}	
+}
+/* Restara */

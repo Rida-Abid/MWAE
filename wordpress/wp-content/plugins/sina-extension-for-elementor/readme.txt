@@ -3,9 +3,9 @@ Contributors: shaonsina
 Tags: elementor, elementor addon, elementor addons, elementor extension, elementor widget, elementor templates
 Donate link: https://sina-extension.sinaextra.com/
 Requires at least: 4.7
-Tested up to: 6.2
+Tested up to: 6.3
 Requires PHP: 7.0
-Stable tag: 3.4.6
+Stable tag: 3.4.8
 License: GPL v3
 License URI: https://opensource.org/licenses/GPL-3.0
 
@@ -271,6 +271,17 @@ Yes. It's totally free. We also have a [PRO](https://sina-extension.sinaextra.co
 
 
 == Changelog ==
+
+= 3.4.8 - 08-31-2023 =
+- Changed: Api has changed
+- Fixed: Gradient Background issue
+- Improved
+
+= 3.4.7 - 01-07-2023 =
+- Added: Line Height control to Content Box icon
+- Fixed: Brand Carousel slide issue
+- Fixed: Posts Carousel slide issue
+- Fixed: Content Slider slide issue
 
 = 3.4.6 - 02-04-2023 =
 - Added: Process Text to Login, Contact and MailChimp Form

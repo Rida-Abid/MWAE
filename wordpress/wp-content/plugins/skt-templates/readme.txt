@@ -2,9 +2,9 @@
 Contributors: sonalsinha21
 Tags: gutenberg, elementor, themes, one click demo import, templates
 Requires at least: 5.0
-Tested up to: 6.2
+Tested up to: 6.3
 Requires PHP: 5.6
-Stable tag: 4.9.9
+Stable tag: 5.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -79,6 +79,24 @@ Yes if your site import is done and you are currently editing via Elementor or i
 
 
 == Changelog ==
+= 5.0.5 =
+Added SKT Restara template in Elementor Templates.
+
+= 5.0.4 =
+Added SKT Physiotherapy template in Elementor Templates.
+
+= 5.0.3 =
+Added SKT Pizzeria template in Elementor Templates.
+
+= 5.0.2 =
+Updated Freemius SDK.
+
+= 5.0.1 =
+Added SKT Coach template in Elementor Templates.
+
+= 5.0.0 =
+Added SKT Glass template in Elementor Templates.
+
 = 4.9.9 =
 Added SKT Golf template in Elementor Templates.
 

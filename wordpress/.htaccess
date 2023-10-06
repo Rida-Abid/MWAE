@@ -14,3 +14,4 @@ RewriteRule . /MWAE/wordpress/index.php [L]
 </IfModule>
 
 # END WordPress
+

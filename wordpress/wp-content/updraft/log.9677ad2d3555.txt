@@ -1,0 +1,231 @@
+0000.007 (0) Opened log file at time: Fri, 08 Sep 2023 12:05:11 +0000 on http://localhost/MWAE/wordpress
+0000.013 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.6 WP: 6.2 PHP: 8.2.4 (apache2handler, Windows NT DESKTOP-LLRRUIU 10.0 build 22621 (Windows 11) AMD64) MySQL: 10.4.28-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 54.8M | 90M) multisite: N openssl: OpenSSL 3.0.8 7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0000.018 (0) Free space on disk containing Updraft's temporary directory: 42528.6 MB
+0000.037 (0) Deleting old temporary file: backup_2023-09-06-1813_MWAE_086c029cd70b-plugins.zip.tmp
+0000.048 (0) Deleting old temporary file: backup_2023-09-07-1334_MWAE_d1a8819ee790-plugins.zip.tmp
+0000.049 (0) Deleting old temporary file: backup_2023-09-07-1400_MWAE_6d49f8becd9c-plugins.zip.list.tmp
+0000.054 (0) Deleting old temporary file: backup_2023-09-07-1403_MWAE_a70c90e1e102-plugins.zip.tmp
+0000.057 (0) Deleting old temporary file: backup_2023-09-07-1702_MWAE_4ba3b6f5f0b3-plugins.zip.list.tmp
+0000.080 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.151 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.195 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1694106157, seconds_ago=68554)
+0000.250 (0) Set semaphore last lock (fd) time to 2023-09-08 12:05:11
+0000.297 (0) Semaphore lock (fd) complete
+0000.327 (0) Backup run: resumption=0, nonce=9677ad2d3555, file_nonce=9677ad2d3555 begun at=1694174711 (0s ago), job type=backup
+0000.348 (0) Scheduling a resumption (1) after 300 seconds (1694175011) in case this run gets aborted
+0000.389 (0) Checking if we have a zip executable available
+0000.431 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.454 (0) Creation of backups of directories: beginning
+0000.506 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0051.126 (0) Total entities for the zip file: 1856 directories, 7705 files (0 skipped as non-modified), 132.9 MB
+0051.210 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 136040.3 KB, split: 409600 KB)
+0051.600 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0051.775 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0051.960 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0052.179 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0052.290 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0052.390 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0052.513 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0052.705 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0052.829 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0053.323 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0054.044 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0054.529 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0055.110 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0055.607 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0056.060 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0056.149 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0056.343 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0056.549 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0056.774 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0057.048 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0057.223 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0057.358 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0057.469 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0057.633 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0057.806 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0057.975 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0058.248 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0058.484 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0058.789 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0059.259 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0059.800 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0060.123 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0060.241 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0060.382 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0060.539 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0060.759 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0061.055 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0061.318 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0061.470 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0061.607 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0061.765 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0061.876 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4200 files added (on-disk size: 0 KB)
+0062.183 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4300 files added (on-disk size: 0 KB)
+0062.427 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4400 files added (on-disk size: 0 KB)
+0062.554 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4500 files added (on-disk size: 0 KB)
+0062.658 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4600 files added (on-disk size: 0 KB)
+0062.780 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4700 files added (on-disk size: 0 KB)
+0063.108 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4800 files added (on-disk size: 0 KB)
+0063.491 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4900 files added (on-disk size: 0 KB)
+0063.819 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5000 files added (on-disk size: 0 KB)
+0064.371 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5100 files added (on-disk size: 0 KB)
+0064.903 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5200 files added (on-disk size: 0 KB)
+0065.818 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5300 files added (on-disk size: 0 KB)
+0065.944 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5400 files added (on-disk size: 0 KB)
+0066.123 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5500 files added (on-disk size: 0 KB)
+0066.277 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5600 files added (on-disk size: 0 KB)
+0066.503 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5700 files added (on-disk size: 0 KB)
+0066.737 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5800 files added (on-disk size: 0 KB)
+0067.045 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5900 files added (on-disk size: 0 KB)
+0067.448 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6000 files added (on-disk size: 0 KB)
+0067.914 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6100 files added (on-disk size: 0 KB)
+0068.253 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6200 files added (on-disk size: 0 KB)
+0068.604 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6300 files added (on-disk size: 0 KB)
+0068.726 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6400 files added (on-disk size: 0 KB)
+0068.927 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6500 files added (on-disk size: 0 KB)
+0069.057 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6600 files added (on-disk size: 0 KB)
+0069.249 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6700 files added (on-disk size: 0 KB)
+0069.416 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6800 files added (on-disk size: 0 KB)
+0069.551 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6900 files added (on-disk size: 0 KB)
+0069.790 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 7000 files added (on-disk size: 0 KB)
+0069.928 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 7100 files added (on-disk size: 0 KB)
+0070.121 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 7200 files added (on-disk size: 0 KB)
+0070.403 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 7300 files added (on-disk size: 0 KB)
+0070.707 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 7400 files added (on-disk size: 0 KB)
+0070.768 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 7500 files added (on-disk size: 0 KB)
+0070.842 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 7600 files added (on-disk size: 0 KB)
+0070.921 (0) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 7700 files added (on-disk size: 0 KB)
+7047.207 (1) Opened log file at time: Fri, 08 Sep 2023 14:02:38 +0000 on http://localhost/MWAE/wordpress
+7047.214 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.6 WP: 6.2 PHP: 8.2.4 (apache2handler, Windows NT DESKTOP-LLRRUIU 10.0 build 22621 (Windows 11) AMD64) MySQL: 10.4.28-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 59.2M | 110M) multisite: N openssl: OpenSSL 3.0.8 7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+7047.219 (1) Free space on disk containing Updraft's temporary directory: 31843.2 MB
+7047.228 (1) Requesting backup semaphore lock (9677ad2d3555)
+7047.241 (1) [Debug] Lock option (updraft_lock_9677ad2d3555, wp_options) was created in the database
+7047.250 (1) [Info] Lock (updraft_lock_9677ad2d3555, wp_options) acquired after initialising the database
+7047.265 (1) Backup run: resumption=1, nonce=9677ad2d3555, file_nonce=9677ad2d3555 begun at=1694174711 (7047s ago), job type=backup
+7047.272 (1) Long time past since expected resumption time: approx expected=1694175011.8, now=1694181758.6, diff=6746.9
+7047.291 (1) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+7047.305 (1) Scheduling a resumption (2) after 300 seconds (1694182058) in case this run gets aborted
+7047.355 (1) Checking if we have a zip executable available
+7047.364 (1) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+7047.369 (1) Creation of backups of directories: had begun; will resume
+7047.378 (1) Beginning creation of dump of plugins (split every: 400 MB)
+7047.386 (1) File exists (C:\Users\ridaa\Source\WordpressProjectFolder\MWAE\wordpress/wp-content/updraft/backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp), but was not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1694175611, time_now=1694181758, diff=6147)
+7047.539 (1) backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: Zip file already exists, with 6762 files
+7056.254 (1) Total entities for the zip file: 1856 directories, 7705 files (0 skipped as non-modified), 132.9 MB
+7056.259 (1) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 136040.3 KB, split: 409600 KB)
+7056.271 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 100 files added (on-disk size: 45747.6 KB)
+7056.279 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 200 files added (on-disk size: 45747.6 KB)
+7056.290 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 300 files added (on-disk size: 45747.6 KB)
+7056.299 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 400 files added (on-disk size: 45747.6 KB)
+7056.306 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 500 files added (on-disk size: 45747.6 KB)
+7056.315 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 600 files added (on-disk size: 45747.6 KB)
+7056.329 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 700 files added (on-disk size: 45747.6 KB)
+7056.340 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 800 files added (on-disk size: 45747.6 KB)
+7056.349 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 900 files added (on-disk size: 45747.6 KB)
+7056.357 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1000 files added (on-disk size: 45747.6 KB)
+7056.385 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1100 files added (on-disk size: 45747.6 KB)
+7056.394 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1200 files added (on-disk size: 45747.6 KB)
+7056.405 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1300 files added (on-disk size: 45747.6 KB)
+7056.415 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1400 files added (on-disk size: 45747.6 KB)
+7056.424 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1500 files added (on-disk size: 45747.6 KB)
+7056.433 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1600 files added (on-disk size: 45747.6 KB)
+7056.441 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1700 files added (on-disk size: 45747.6 KB)
+7056.452 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1800 files added (on-disk size: 45747.6 KB)
+7056.463 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 1900 files added (on-disk size: 45747.6 KB)
+7056.473 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2000 files added (on-disk size: 45747.6 KB)
+7056.488 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2100 files added (on-disk size: 45747.6 KB)
+7056.497 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2200 files added (on-disk size: 45747.6 KB)
+7056.505 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2300 files added (on-disk size: 45747.6 KB)
+7056.515 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2400 files added (on-disk size: 45747.6 KB)
+7056.528 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2500 files added (on-disk size: 45747.6 KB)
+7056.536 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2600 files added (on-disk size: 45747.6 KB)
+7056.544 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2700 files added (on-disk size: 45747.6 KB)
+7056.551 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2800 files added (on-disk size: 45747.6 KB)
+7056.558 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 2900 files added (on-disk size: 45747.6 KB)
+7056.565 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3000 files added (on-disk size: 45747.6 KB)
+7056.587 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3100 files added (on-disk size: 45747.6 KB)
+7056.595 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3200 files added (on-disk size: 45747.6 KB)
+7056.608 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3300 files added (on-disk size: 45747.6 KB)
+7056.625 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3400 files added (on-disk size: 45747.6 KB)
+7056.642 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3500 files added (on-disk size: 45747.6 KB)
+7056.661 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3600 files added (on-disk size: 45747.6 KB)
+7056.678 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3700 files added (on-disk size: 45747.6 KB)
+7056.695 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3800 files added (on-disk size: 45747.6 KB)
+7056.705 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 3900 files added (on-disk size: 45747.6 KB)
+7056.722 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4000 files added (on-disk size: 45747.6 KB)
+7056.738 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4100 files added (on-disk size: 45747.6 KB)
+7056.745 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4200 files added (on-disk size: 45747.6 KB)
+7056.753 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4300 files added (on-disk size: 45747.6 KB)
+7056.760 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4400 files added (on-disk size: 45747.6 KB)
+7056.770 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4500 files added (on-disk size: 45747.6 KB)
+7056.778 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4600 files added (on-disk size: 45747.6 KB)
+7056.786 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4700 files added (on-disk size: 45747.6 KB)
+7056.793 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4800 files added (on-disk size: 45747.6 KB)
+7056.803 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 4900 files added (on-disk size: 45747.6 KB)
+7056.811 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5000 files added (on-disk size: 45747.6 KB)
+7056.825 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5100 files added (on-disk size: 45747.6 KB)
+7056.836 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5200 files added (on-disk size: 45747.6 KB)
+7056.844 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5300 files added (on-disk size: 45747.6 KB)
+7056.854 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5400 files added (on-disk size: 45747.6 KB)
+7056.866 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5500 files added (on-disk size: 45747.6 KB)
+7056.875 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5600 files added (on-disk size: 45747.6 KB)
+7056.887 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5700 files added (on-disk size: 45747.6 KB)
+7056.896 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5800 files added (on-disk size: 45747.6 KB)
+7056.905 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 5900 files added (on-disk size: 45747.6 KB)
+7056.915 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6000 files added (on-disk size: 45747.6 KB)
+7056.938 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6100 files added (on-disk size: 45747.6 KB)
+7056.955 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6200 files added (on-disk size: 45747.6 KB)
+7056.964 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6300 files added (on-disk size: 45747.6 KB)
+7056.974 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6400 files added (on-disk size: 45747.6 KB)
+7056.987 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6500 files added (on-disk size: 45747.6 KB)
+7057.022 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6600 files added (on-disk size: 45747.6 KB)
+7057.059 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6700 files added (on-disk size: 45747.6 KB)
+7057.103 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6800 files added (on-disk size: 45747.6 KB)
+7057.160 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 6900 files added (on-disk size: 45747.6 KB)
+7057.248 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 7000 files added (on-disk size: 45747.6 KB)
+7057.413 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 7100 files added (on-disk size: 45747.6 KB)
+7057.572 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 7200 files added (on-disk size: 45747.6 KB)
+7057.709 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 7300 files added (on-disk size: 45747.6 KB)
+7057.828 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 7400 files added (on-disk size: 45747.6 KB)
+7057.942 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 7500 files added (on-disk size: 45747.6 KB)
+7058.074 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 7600 files added (on-disk size: 45747.6 KB)
+7058.203 (1) Zip: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp: 7700 files added (on-disk size: 45747.6 KB)
+7351.348 (2) Opened log file at time: Fri, 08 Sep 2023 14:07:42 +0000 on http://localhost/MWAE/wordpress
+7351.374 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.6 WP: 6.2 PHP: 8.2.4 (apache2handler, Windows NT DESKTOP-LLRRUIU 10.0 build 22621 (Windows 11) AMD64) MySQL: 10.4.28-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 54.8M | 64M) multisite: N openssl: OpenSSL 3.0.8 7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+7351.404 (2) Free space on disk containing Updraft's temporary directory: 31576.8 MB
+7351.429 (2) Requesting backup semaphore lock (9677ad2d3555)
+7351.442 (2) [Info] Lock (updraft_lock_9677ad2d3555, wp_options) acquired
+7351.459 (2) Backup run: resumption=2, nonce=9677ad2d3555, file_nonce=9677ad2d3555 begun at=1694174711 (7351s ago), job type=backup
+7351.470 (2) Scheduling a resumption (3) after 300 seconds (1694182362) in case this run gets aborted
+7351.533 (2) Checking if we have a zip executable available
+7351.539 (2) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+7351.546 (2) Creation of backups of directories: had begun; will resume
+7351.561 (2) Beginning creation of dump of plugins (split every: 400 MB)
+7351.582 (2) Terminate: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp exists with activity within the last 30 seconds (time_mod=1694182062, time_now=1694182063, diff=1, size=45864.4KB). This likely means that another UpdraftPlus run is at work; so we will exit.
+7351.597 (2) Rescheduling resumption 3: moving to 420 seconds from now (1694182483)
+7351.618 (2) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 120 = 420
+8727.247 (3) Opened log file at time: Fri, 08 Sep 2023 14:30:38 +0000 on http://localhost/MWAE/wordpress
+8727.254 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.6 WP: 6.2 PHP: 8.2.4 (apache2handler, Windows NT DESKTOP-LLRRUIU 10.0 build 22621 (Windows 11) AMD64) MySQL: 10.4.28-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 54.8M | 84M) multisite: N openssl: OpenSSL 3.0.8 7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+8727.261 (3) Free space on disk containing Updraft's temporary directory: 31289.7 MB
+8727.268 (3) Requesting backup semaphore lock (9677ad2d3555)
+8727.289 (3) [Info] Lock (updraft_lock_9677ad2d3555, wp_options) acquired
+8727.345 (3) Backup run: resumption=3, nonce=9677ad2d3555, file_nonce=9677ad2d3555 begun at=1694174711 (8727s ago), job type=backup, previous check-in=0.24s
+8727.461 (3) Long time past since expected resumption time: approx expected=1694182483, now=1694183438.7, diff=955.7
+8727.509 (3) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+8727.526 (3) Scheduling a resumption (4) after 420 seconds (1694183858) in case this run gets aborted
+8727.601 (3) Checking if we have a zip executable available
+8727.617 (3) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+8727.626 (3) Creation of backups of directories: had begun; will resume
+8727.636 (3) Beginning creation of dump of plugins (split every: 400 MB)
+8727.667 (3) Terminate: backup_2023-09-08-1205_MWAE_9677ad2d3555-plugins.zip.tmp exists with activity within the last 30 seconds (time_mod=1694183438, time_now=1694183439, diff=1, size=45993.3KB). This likely means that another UpdraftPlus run is at work; so we will exit.
+8727.680 (3) Rescheduling resumption 4: moving to 540 seconds from now (1694183979)
+8727.703 (3) To decrease the likelihood of overlaps, increasing resumption interval to: 420 + 120 = 540
+8731.516 (3) Opened log file at time: Fri, 08 Sep 2023 14:30:42 +0000 on http://localhost/MWAE/wordpress
+8731.540 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.6 WP: 6.2 PHP: 8.2.4 (apache2handler, Windows NT DESKTOP-LLRRUIU 10.0 build 22621 (Windows 11) AMD64) MySQL: 10.4.28-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 54.8M | 118M) multisite: N openssl: OpenSSL 3.0.8 7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+8731.560 (3) Free space on disk containing Updraft's temporary directory: 31278.7 MB
+8731.581 (3) Requesting backup semaphore lock (9677ad2d3555)
+8731.619 (3) [Debug] Lock option (updraft_lock_9677ad2d3555, wp_options) already existed in the database
+8731.620 (3) [Info] Lock (updraft_lock_9677ad2d3555, wp_options) could not be acquired (it is locked)
+8731.641 (3) Failed to gain semaphore lock (9677ad2d3555) - another resumption for this job is apparently already active
+8731.657 (3) Failed to get backup job lock; possible overlapping resumptions - will abort this instance

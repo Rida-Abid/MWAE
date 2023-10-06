@@ -4,7 +4,7 @@ Tags: demo data, one click demo import, demo data importer
 Requires at least: 4.6
 Tested up to: 6.2
 Requires PHP: 4.6
-Stable tag: 1.5.6
+Stable tag: 1.6.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -39,6 +39,18 @@ https://pxhere.com/en/license [CCO License]
 Keon Toolset
 
 == Changelog ==
+
+= 1.6.0 =
+* Child theme compatibility updated.
+
+= 1.5.9 =
+* Child theme compatibility updated.
+
+= 1.5.8 =
+* Child theme compatibility updated.
+
+= 1.5.7 =
+* Child theme compatibility updated.
 
 = 1.5.6 =
 * Child theme compatibility updated.
